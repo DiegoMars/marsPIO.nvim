@@ -1,3 +1,5 @@
+-- Remember to run :Pioinit in a project before this plugin activates
+
 return {
   'anurag3301/nvim-platformio.lua',
 
